@@ -276,14 +276,6 @@ Create the empty GitHub repository first. Authenticate with an appropriate perso
 | JSON/Markdown exports verified | Pending confirmation |
 | GitHub repository published | Pending confirmation |
 
-## 14. Resume-ready description
-
-**SHADOWINT — Mobile OSINT Framework | Personal Cybersecurity Project**
-
-- Deployed a Python/Flask-based OSINT investigation dashboard within Alpine Linux on an iPhone using iSH.
-- Integrated source-code modules for passive domain, IP, email, username, URL, and threat reputation research, with SQLite case management and report export functionality.
-- Diagnosed a Flask server startup failure using curl and Python traceback logs, identifying an address-in-use conflict and restoring dashboard access by migrating the local service to port 5050.
-
 ---
 
 **Project version:** 1.0  
